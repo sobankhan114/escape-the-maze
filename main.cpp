@@ -11,7 +11,7 @@ unsigned int dist3;
 Servo s1;
 
 int trig1=4;
-int echo1=5;
+int echo1=5;        //https://books.google.com.pk/books?id=S18xDwAAQBAJ&printsec=frontcover&dq=Programming+FPGAs:+Getting+Started+with+Verilog&hl=en&sa=X&ved=0ahUKEwiNopHM3I3fAhXBuHEKHSlJAOoQ6AEILzAC#v=onepage&q&f=true
 
 int trig2=6;
 int echo2=7;
